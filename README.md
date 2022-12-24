@@ -37,6 +37,10 @@ Fonte: https://youtu.be/YK7BQfQ84ws
 docker-compose up
 ```
 
+Importar o arquivo `doc/insomnia.json` para o Insomnia para realizar os testes.
+
+No Header deve ser informado o conteúdo o `token` que está no arquivo `config/config.yml`
+
 <br>
 
 ## :memo: Licença
