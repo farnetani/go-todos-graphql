@@ -9,7 +9,7 @@
   <a href="https://go.dev/">
     <img alt="Golang" src="https://img.shields.io/badge/golang-blue?style=flat-square">
   </a>  
-  <a href="https://youtu.be/MD7b-iQMC24">
+  <a href="https://youtu.be/YK7BQfQ84ws">
     <img alt="TechPractice" src="https://img.shields.io/badge/Canal TechPractice-red?style=flat-square">
   </a>    
 </p>
