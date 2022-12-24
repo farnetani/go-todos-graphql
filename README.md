@@ -10,7 +10,7 @@
     <img alt="Golang" src="https://img.shields.io/badge/golang-blue?style=flat-square">
   </a>  
   <a href="https://youtu.be/MD7b-iQMC24">
-    <img alt="Aprenda Golang" src="https://img.shields.io/badge/Fonte-Canal Aprenda Golang-red?style=flat-square">
+    <img alt="TechPractice" src="https://img.shields.io/badge/Canal TechPractice-red?style=flat-square">
   </a>    
 </p>
 <p align="center">
